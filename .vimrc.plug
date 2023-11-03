@@ -1,0 +1,8 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+
+"Vim colours solarised
+Plug 'altercation/vim-colors-solarized'
+call plug#end()
